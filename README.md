@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @Tarush2311
 
 - 👀 I’m interested in :
-          Hardware Devices
+          Hardware Devices ;
           Offensive Security
           
 - 🌱 I’m currently learning :
-          Artificial Intelligence
-          Soft Computing
+          Artificial Intelligence ;
+          Soft Computing ;
           Machiene Learning
           
 - 💞️ I’m looking to collaborate on :
 
 - 📫 How to reach me :
-        Email - tarusharya2311@gmail.com
+        Email - tarusharya2311@gmail.com ;
         Instagram - _tarush2311_
 
 <!---
